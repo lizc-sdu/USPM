@@ -1,2 +1,2 @@
 # USPM
-These are the source codes for the ReCP model and its corresponding data.
+These are the source codes for the USPM model and its corresponding data.
