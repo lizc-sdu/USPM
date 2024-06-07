@@ -1,6 +1,6 @@
 # USPM
 These are the source codes for the USPM model and its corresponding data.
-Paper: Profiling Urban Streets: A Semi-Supervised Prediction Model Based on Street View Imagery and Spatial Topology
+Paper: Profiling Urban Streets: A Semi-Supervised Prediction Model Using Street View Imagery
 ## Pretrain
 The pretrained image model can be obtained by the following steps:
 ```
